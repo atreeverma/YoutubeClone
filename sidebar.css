@@ -1,0 +1,78 @@
+.sidebar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 50px;
+    width: 80px;
+    display: grid;
+    grid-template-rows: 70px 70px 70px 70px 70px 70px;
+}
+
+.s1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: x-small;
+}
+.s2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: x-small;
+}
+.s3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: x-small;
+}
+.s4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: x-small;
+}
+.s5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: x-small;
+}
+.s6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: x-small;
+}
+
+
+.home{
+    height: 22px;
+    margin-bottom: 5px ;
+}
+.explore{
+    height: 22px;
+    margin-bottom: 5px ;
+}
+.subscriptions{
+    height: 22px;
+    margin-bottom: 5px ;
+}
+.originals{
+    height: 22px;
+    margin-bottom: 5px ;
+}
+.youtube-music{
+    height: 22px;
+    margin-bottom: 5px ;
+}
+.library{
+    height: 22px;
+    margin-bottom: 5px ;
+}

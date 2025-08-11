@@ -1,0 +1,43 @@
+.image {
+    width: 100%;
+}
+
+.profile-preview {
+    margin-right: 15px;
+    vertical-align: top;
+}
+
+
+
+.thumbnail {
+    margin-bottom: 10px;
+}
+
+.video-title {
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+
+.pic {
+    border-radius: 50%;
+    width: 50px;
+}
+
+.div2 {
+    margin-left: 10px;
+}
+
+.video-info-grid {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.video-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 40px;
+}
